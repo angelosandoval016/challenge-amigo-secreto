@@ -1,0 +1,5 @@
+<h1>PROYECTO CHALLENGE AMIGO SECRETO</h1>
+<p>Corresponde a juego amigo secreto, en el cual en campo input se registra un nombre, luego pulsas boton para agregarlo. Cada nombre agregado se va listando a la vista del usuario. Finalmente una vez que hayas terminado de registrar los nombres, pulsa boton para escojer uno de los nombres al azar como amigo secreto</p>
+<p>Se encuentran los archivos correspondientes al proyecto. Importante es que al interior de la carpeta que concentre los archivos sel mismo, crees una subcarpeta de anombre "assets" en la cual debes almacenar los archivos de extensión .PNG</p>
+<p>Finalmente, para reformzar lo aprendido, me tomé la libertad de registrar casi por cada linea de codigo comentarios con la explicación completa de cada elemento del codigo en un lenguaje lo mas neutro posible</p>
+<p>Querido visitante, favor si encuentras algun error o inconsistencia, favor házmelo saber para corregir o mejor aún si puede haz los comentarios y/o correcciones que pienses necesarias</p>
